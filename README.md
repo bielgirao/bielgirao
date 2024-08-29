@@ -1,11 +1,11 @@
 ![Header](assets/Banner.png)
 
 ## Hi, I'm Gabriel 👋
-I'm Gabriel Girão - a Fullstack developer. I like experimenting with new technologies, building small projects, and occasionally working with UI/UX design.
+I'm Gabriel Girão - a Fullstack developer. I like experimenting new technologies, building small projects, and occasionally working with UI/UX design.
 
 ### About me
 * 🌱 Working as a Fullstack Developer @ Meet The Need Ministries using Angular, PHP, Laravel & Ionic
-* 💼 I'm currently revising Data Structures & Algorithms through Leetcode, as well as doing the occasional personal side projects
+* 💼 I'm currently revising Data Structures & Algorithms through Leetcode, as well as doing some occasional personal side projects
 * 🎓 Attending full-stack development specialization courses @ Rocketseat and Full Stack Club. Starting a Software Engineering Bachelor's Degree @ Faculdade Descomplica in June/2024.
 * 🤝 Contributing to two MVPs and Volunteering side projects development study groups.
 
