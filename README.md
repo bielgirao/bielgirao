@@ -1,13 +1,19 @@
 ![Header](assets/Banner.png)
 
 ## Hi, I'm Gabriel 👋
-I'm Gabriel Girão - a Fullstack developer. I like experimenting new technologies, building small projects, and occasionally working with UI/UX design.
+I’m Gabriel Girão, a Full-Stack Developer who loves exploring new technologies, building hands-on projects, and crafting intuitive UI/UX experiences.
 
-### About me
-* 🌱 Working as a Fullstack Developer @ Meet The Need Ministries using Angular, PHP, Laravel & Ionic
-* 💼 I'm currently revising Data Structures & Algorithms through Leetcode, as well as doing some occasional personal side projects
-* 🎓 Attending full-stack development specialization courses @ Rocketseat and Full Stack Club. Starting a Software Engineering Bachelor's Degree @ Faculdade Descomplica in June/2024.
-* 🤝 Contributing to two MVPs and Volunteering side projects development study groups.
+### 🚀 Currently
+- Full-Stack Developer at **Meet The Need Ministries**, working with Angular, PHP/Laravel, and Ionic.  
+- Focusing on **Angular**, **React**, **Node.js** and deepening my expertise in **Data Structures & Algorithms**.
+
+### 🎓 Education & Training
+- Currently attending a Bachelor’s in Software Analysis and Development at Faculdade Descomplica.  
+- Full-Stack specializations through Rocketseat and Full Stack Club courses.
+
+### 🌱 Projects & Volunteering
+- Contributing to two internal MVPs and actively participating in study groups and volunteer projects.  
+- Actively building and refining side projects.
 
 ### My Skills
 
@@ -40,7 +46,7 @@ Languages & Technologies: `Angular`, `Laravel`, `PHP`, `TypeScript`, `Docker`, `
 Languages & Technologies: `PHP`, `Wordpress`, `Javascript`, `HTML`, `CSS` \
 <br/>
 
-#### Let's create something awesome together!
+#### 🔗 Let's create something awesome together!
 <div> 
   <a href="https://girao.dev/" target="_blank"><img src="https://img.shields.io/badge/Porfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
   <a href="mailto:contact@girao.dev"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
